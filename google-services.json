@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902417896231",
+    "project_id": "gadingreport2017"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902417896231:android:1789268a728a6fce",
+        "android_client_info": {
+          "package_name": "com.david.gadingreport2017_fragment_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902417896231-g1ulsn7buf9a4fidh35cir4nccsgatcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.david.gadingreport2017_fragment_test",
+            "certificate_hash": "9cc4a8d2ca7d6f5ebcb7c1b5230297034bb00138"
+          }
+        },
+        {
+          "client_id": "902417896231-tmfui412eu4ctf8qq1bgk8g5k7767ltp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrxnEBRoXMx-pzq93sOGKu54AxvjHI4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

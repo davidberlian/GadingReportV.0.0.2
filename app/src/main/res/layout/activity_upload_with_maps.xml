@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <RelativeLayout
+        android:id="@+id/Rview"
+        android:layout_width="match_parent"
+        android:layout_height="180dp">
+        <RelativeLayout
+            android:id="@+id/Upload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btn_picture"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:text="Upload Pic"/>
+        <ImageView
+            android:id="@+id/img_picture"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:visibility="gone"/>
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_toRightOf="@+id/Upload"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/lblProblem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Masalah"/>
+            <EditText
+                android:id="@+id/txtProblem"
+                android:layout_below="@+id/lblProblem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Masukan Masalah"/>
+            <TextView
+                android:id="@+id/lblDescription"
+                android:layout_below="@+id/txtProblem"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Deskripsi"/>
+            <EditText
+                android:id="@+id/txtDescription"
+                android:layout_below="@+id/lblDescription"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Masukan Masalah"/>
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/Rmap"
+        android:layout_below="@+id/Rview"
+        android:layout_width="match_parent"
+        android:layout_height="250dp">
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:foregroundGravity="center"
+        android:layout_height="match_parent" />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerInParent="true"
+            app:srcCompat="@drawable/ic_place"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_below="@+id/Rmap"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        >
+        <Button
+            android:id="@+id/btnSubmit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:layout_alignParentRight="true" />
+        <EditText
+            android:id="@+id/txtAddr"
+            android:layout_toRightOf="@+id/btnCancel"
+            android:layout_toLeftOf="@+id/btnSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="8dp"/>
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel" />
+    </RelativeLayout>
+</RelativeLayout>

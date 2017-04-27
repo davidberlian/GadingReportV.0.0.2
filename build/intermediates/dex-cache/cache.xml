@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/33566a80f5327543fdb16cd8472c71a1ff15294f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_bfe509b2f6bd9cdabbf47a6adb1c50f502deb03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_d0b7bfd8dbc841a09abffa8b553d74ecae7b0f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/f5546f04f9907494366e88e90f2499f99c26aa9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_13e790a1e2997a79d943e5044cb0487a12ebc871.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/ae2a5149ec5e25ef6f52114ce37ee8785dfe2ac3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c1d5ae3b06fda225bdab2336b053cced3ddada3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/f4fb46f6662af869d985aa82732e66b5a5a304bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_6f0db20f9c5ce9fa60c3d2491760e8016ca2bd45.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffe3496267dbb9efd32622f3d87f4c31d993dfbe">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7e211d59e473d8f8cea01708ca7fad1c012751ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/0ee520318c3b18674bba56c344bb260fde6225aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_d9f7ef6cd634e2657ca380af4fe7899067aafca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/a932be01822c416733182e441fed991882f94a8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_7116dc10bbbf833b4e4174f717a8cbf4a4925984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/e4d2296ab11352cf270e41f15b838ced5655b80e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_ef2a132aa1ec058fa1f45d9622941dd95ced64ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/3668bdb31c4affbaa5604b90657e5481c83b176f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_f13e88b0e5175cf17873446850d4627e894e652c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/c68d8d647c4799d969687b2a7756ee1fa2d18f75/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_c8d76e8341711ca46527133daaa7858d41b45028.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/701e5dc0cabd42fcb94714fd5e92eb1d037686b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_0315e015a73a155e8620bf3bd0acad3c16f50aeb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/9692a369668140b214d46e2657ee25728a40b0e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c4fba376f1f30b6ac4c4560657113b47a20749c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/89f3f0f746f3c1e9b8c7154a1ca9426ed7617546/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2afc86111cb0edb599e0945524157322cae64ca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/d26466cd65a83126634ec0432f7124f40a724aab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca9fde0f1155678d5828b77e2ff3a0f59bbe8b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/34a77802f843204c4e4b06b60ab9442678159378/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_ca92aeffe5209355ae3f9c1195127e91382b7725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_23d907d371067263bb2f2ede29762fa01929573c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/7c7f189d72af530ca733b3bde9432122f52dccac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_1aa834fd8a6356133091f255d26c07939deec596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/6c1ab280fa2dc3e92fb2e43aa1771fb9287cd62e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_8b8c8ac385d9cebab49493de0ae025bb4bb8096e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/da8aa74533322a7613931c60aee29d5bb3abff51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_a828faa07e813033888df7921326fc69456a7b36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/854d5d5b9159d406a020ca0a13b3efdc6594aa77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_337c25e720ecffe23cb754a37fb134d45d4c6ad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/hamcrest-core-1.3_e8f28f4b182b980cf41b2ae91607be33039332a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/junit-4.12_7e01d3ee7757f035c973b6cc9818cc89ee43a774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/b1a231aa23ff9894f86946250a9a0d7f731d5ffe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_db955c6fb609027f619f5418d1da538714bbdcfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_b0a8c4f0317a482c7de12927420dddd45273e2ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/33ed55b1cb77b922405ccea312929b94c3d18605/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_00b94f02cdad9050b6ba7bcdaeef6d3f9bcbb46d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/1e9ec7f882dc053057654acd719c9d5139877f77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08e1ac02cf633166b21ab5f3395f5f3ecd67011d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/a1398565174c0e19e905d64bba46fcc901cbb644/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_828b488ed0992289105fc731c1ba3af529b251f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/4963a3e67275dee7cb1104b82581923890232562/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_25a103a12f9ccd4129ff9731e6d075dd8fa38258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/5661664043ecec2cc041fd20f7cba3667f0fe3c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_3c826b719702ba014554dc639c120b3d1c0ab71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/52998e57655f4650450be669252f21f4535a5e18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_0fb9f957d72a51899267900264da63c3fd169c1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/bf138ddbdc6e2dfb634380f796fdab52577177d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_3bd179f23ad9a1ce40ff64e5601c27d5a0e6a530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/436bec1fb4d2e03dc49d8d33c0a50d911a58e777/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_2619250af999bced1daa878c5cf7f1a0fd6ebacd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/b7a3705e96f51bb99dc79c3774b929a33e07aa6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02afdbe1d54de7e10720caaae89110e07d3a97c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/7511a9cd630990c65717ede1bb0920cba5829798/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e4e82a3bed84908085fe83b9ac616badbff6d39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/e9cd5fb92e2c8db50335d9feabc5393263cbeab2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5ecd9c1a4519ce0576dcffbf81653b9afe06f70/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_a3e384db497a4e98372c107f692109c3652c01e5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/d5b9f6aef2fca97dee481218142269c248d526f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efbd8550278bbed3de82daa89d421d3b65e58028/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/4ea9f48104e5ba1cad0e85db008538f1dc62b368/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_eddfad52ec169eeb5386543e72597360ba9ddbbb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/.android/build-cache/6294bd5241a052ba2849951d93f2d9e6e4281e43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a9a6ebd90a7a13688b8cf8c40fa68a76cfe6ba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/davidberlian/.android/build-cache/1397518290b354f339e38951a0b8712fa5b51dd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/pre-dexed/debug/classes_6ba97300775e600ee2782ead20cd3ed7201ba242.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/davidberlian/Documents/Mobile2017/GadingReport2017_fragment_test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fd6a7271d23c2991439ac8e8632b616787d7190b/classes.dex" />
+    </item>
+
+</items>
