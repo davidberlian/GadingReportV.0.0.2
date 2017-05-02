@@ -4,7 +4,7 @@ android {
     buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "com.david.gadingreport2017_fragment_test"
-        minSdkVersion 19
+        minSdkVersion 17
         targetSdkVersion 21
         versionCode 1
         versionName "1.0"
